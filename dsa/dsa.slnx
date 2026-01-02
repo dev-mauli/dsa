@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
   <Project Path="TwoSum/TwoSum.csproj" Id="e7a17d97-93ad-44ae-ab5f-0165281c4b73" />
 </Solution>
