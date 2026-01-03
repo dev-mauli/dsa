@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
+  <Project Path="MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj" Id="a1fccd42-6410-4a54-985a-66f59361afd7" />
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
+  <Project Path="ReverseArray/ReverseArray.csproj" Id="d3bc4214-7b8a-4bb7-b85e-35177290392a" />
   <Project Path="TwoSum/TwoSum.csproj" Id="e7a17d97-93ad-44ae-ab5f-0165281c4b73" />
 </Solution>
