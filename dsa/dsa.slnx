@@ -1,11 +1,15 @@
 <Solution>
+  <Project Path="ConcatenationOfArray/ConcatenationOfArray.csproj" Id="fd09b5ea-dc73-4da6-86bf-74b6d72d535d" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
+  <Project Path="MajorityElementMoreThanN3/MajorityElementMoreThanN3.csproj" Id="4ba8982d-ef8f-48d5-850c-96b9a13b1bde" />
   <Project Path="MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj" Id="a1fccd42-6410-4a54-985a-66f59361afd7" />
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
   <Project Path="NextPermutation/NextPermutation.csproj" Id="996dd331-5ac5-40b0-9fbe-9eaa0f53af9a" />
   <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" Id="feb78ba8-5f53-4c08-ac02-3054fae4db36" />
+  <Project Path="RemoveElementArray/RemoveElementArray.csproj" Id="a29c1a45-256f-4011-88dc-891a00ae6a0d" />
   <Project Path="ReverseArray/ReverseArray.csproj" Id="d3bc4214-7b8a-4bb7-b85e-35177290392a" />
   <Project Path="RotateArr/RotateArr.csproj" Id="4d174f81-cf5b-46a9-88a7-282a902739a4" />
+  <Project Path="SearchInsertPosition/SearchInsertPosition.csproj" Id="0a7184ee-d90f-4d9b-9341-a8e6a16f1475" />
   <Project Path="ThreeSum/ThreeSum.csproj" Id="2b8c4d9d-1087-4a10-a788-406d47779f3a" />
   <Project Path="TwoSum/TwoSum.csproj" Id="e7a17d97-93ad-44ae-ab5f-0165281c4b73" />
 </Solution>
