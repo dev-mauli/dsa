@@ -10,6 +10,7 @@
   <Project Path="ReverseArray/ReverseArray.csproj" Id="d3bc4214-7b8a-4bb7-b85e-35177290392a" />
   <Project Path="RotateArr/RotateArr.csproj" Id="4d174f81-cf5b-46a9-88a7-282a902739a4" />
   <Project Path="SearchInsertPosition/SearchInsertPosition.csproj" Id="0a7184ee-d90f-4d9b-9341-a8e6a16f1475" />
+  <Project Path="StockBuySellMultipleTransactions/StockBuySellMultipleTransactions.csproj" Id="8ec8d4cb-0a29-41dc-8174-a25b5c59e9a6" />
   <Project Path="ThreeSum/ThreeSum.csproj" Id="2b8c4d9d-1087-4a10-a788-406d47779f3a" />
   <Project Path="TwoSum/TwoSum.csproj" Id="e7a17d97-93ad-44ae-ab5f-0165281c4b73" />
 </Solution>
