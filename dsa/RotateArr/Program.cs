@@ -21,6 +21,6 @@ static void ReverseArr(int[] arr, int left, int right)
     }
 }
 
-RotateArr(new int[] { 1, 2, 3, 4, 5 }, 2);
+RotateArr(new int[] { 4, 5, 6, 7, 0, 1, 2 }, 0);
 
 Console.WriteLine("Test");
