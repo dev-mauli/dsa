@@ -17,6 +17,11 @@ static int myAtoi(string s)
     {
         sign = s[index] == '-' ? -1 : 1;
         index++;
+
+        if (index >= s.Length || !char.IsDigit(s[index]))
+        {
+            return 0;
+        }
     }
 
     while (index < s.Length && char.IsDigit(s[index]))
@@ -32,4 +37,4 @@ static int myAtoi(string s)
     return result * sign;
 }
 
-myAtoi("-123");
+myAtoi("-+12");
