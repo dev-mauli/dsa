@@ -8,12 +8,14 @@
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
   <Project Path="LongestPalindromicSubstring/LongestPalindromicSubstring.csproj" Id="df4b4825-4e04-46ec-9f96-ac2a69947e34" />
   <Project Path="MajorityElementMoreThanN3/MajorityElementMoreThanN3.csproj" Id="4ba8982d-ef8f-48d5-850c-96b9a13b1bde" />
+  <Project Path="MaximumProductSubarray/MaximumProductSubarray.csproj" Id="339233c3-cead-44d8-b031-2c8f6abe7c4e" />
   <Project Path="MaximumSumSubarray/MaximumSumSubarray.csproj" Id="4f361669-0ffe-43e3-8cfc-bf246616619d" />
   <Project Path="MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj" Id="a1fccd42-6410-4a54-985a-66f59361afd7" />
   <Project Path="MinimizeTheHeights/MinimizeTheHeights.csproj" Id="9161631e-0ab8-48e1-be20-e694666bb3fe" />
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
   <Project Path="NextPermutation/NextPermutation.csproj" Id="996dd331-5ac5-40b0-9fbe-9eaa0f53af9a" />
   <Project Path="NonRepeatingCharacter/NonRepeatingCharacter.csproj" Id="7e7d0f7e-0e4a-445a-accc-019929a5d872" />
+  <Project Path="RegularExpressionMatching/RegularExpressionMatching.csproj" Id="0cf56ca6-a771-4752-ad6a-d5448f9228c8" />
   <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" Id="feb78ba8-5f53-4c08-ac02-3054fae4db36" />
   <Project Path="RemoveElementArray/RemoveElementArray.csproj" Id="a29c1a45-256f-4011-88dc-891a00ae6a0d" />
   <Project Path="ReverseArray/ReverseArray.csproj" Id="d3bc4214-7b8a-4bb7-b85e-35177290392a" />
@@ -25,4 +27,5 @@
   <Project Path="StringToIntegerMyATIO/StringToIntegerMyATIO.csproj" Id="ed05ef83-db1e-4209-ba22-77eaee41bc9c" />
   <Project Path="ThreeSum/ThreeSum.csproj" Id="2b8c4d9d-1087-4a10-a788-406d47779f3a" />
   <Project Path="TwoSum/TwoSum.csproj" Id="e7a17d97-93ad-44ae-ab5f-0165281c4b73" />
+  <Project Path="ValidParentheses/ValidParentheses.csproj" Id="4adbe2dc-a407-4235-8b51-59d3d6683b7f" />
 </Solution>
