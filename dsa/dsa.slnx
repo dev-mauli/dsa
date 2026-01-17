@@ -16,10 +16,12 @@
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
   <Project Path="NextPermutation/NextPermutation.csproj" Id="996dd331-5ac5-40b0-9fbe-9eaa0f53af9a" />
   <Project Path="NonRepeatingCharacter/NonRepeatingCharacter.csproj" Id="7e7d0f7e-0e4a-445a-accc-019929a5d872" />
+  <Project Path="NumberOfOccurrence/NumberOfOccurrence.csproj" Id="8e6ffc5c-3643-4e61-82fa-ca74e732d828" />
   <Project Path="RegularExpressionMatching/RegularExpressionMatching.csproj" Id="0cf56ca6-a771-4752-ad6a-d5448f9228c8" />
   <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" Id="feb78ba8-5f53-4c08-ac02-3054fae4db36" />
   <Project Path="RemoveElementArray/RemoveElementArray.csproj" Id="a29c1a45-256f-4011-88dc-891a00ae6a0d" />
   <Project Path="ReverseArray/ReverseArray.csproj" Id="d3bc4214-7b8a-4bb7-b85e-35177290392a" />
+  <Project Path="RomanToInteger/RomanToInteger.csproj" Id="36c4f1ca-48cb-4703-89aa-f516d747348b" />
   <Project Path="RotateArr/RotateArr.csproj" Id="4d174f81-cf5b-46a9-88a7-282a902739a4" />
   <Project Path="SearchInsertPosition/SearchInsertPosition.csproj" Id="0a7184ee-d90f-4d9b-9341-a8e6a16f1475" />
   <Project Path="SearchRotatedSortedArray/SearchRotatedSortedArray.csproj" Id="733326fb-572e-4432-9662-d3ec5b159208" />
