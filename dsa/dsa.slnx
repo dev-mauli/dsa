@@ -6,6 +6,7 @@
   <Project Path="FindIndexofFirstOccurence/FindIndexofFirstOccurence.csproj" Id="5c4f0ade-60b1-4bcf-ba33-e8e89fb09fdc" />
   <Project Path="IntegerToRoman/IntegerToRoman.csproj" Id="680d1912-1a70-44f5-9984-1bbcf9cbbec2" />
   <Project Path="LengthOfLongestSubstring/LengthOfLongestSubstring.csproj" Id="990fff40-c624-42ba-8705-a20d2756a563" />
+  <Project Path="LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.csproj" Id="a5db01c9-1db5-424f-9b07-d11bc1fd2050" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
   <Project Path="LongestPalindromicSubstring/LongestPalindromicSubstring.csproj" Id="df4b4825-4e04-46ec-9f96-ac2a69947e34" />
   <Project Path="MajorityElementMoreThanN3/MajorityElementMoreThanN3.csproj" Id="4ba8982d-ef8f-48d5-850c-96b9a13b1bde" />
@@ -26,6 +27,7 @@
   <Project Path="SearchInsertPosition/SearchInsertPosition.csproj" Id="0a7184ee-d90f-4d9b-9341-a8e6a16f1475" />
   <Project Path="SearchRotatedSortedArray/SearchRotatedSortedArray.csproj" Id="733326fb-572e-4432-9662-d3ec5b159208" />
   <Project Path="Sort012s/Sort012s.csproj" Id="3bbbac9f-e828-4230-82ee-2d90561b07b8" />
+  <Project Path="SortedAndRotatedMinimum/SortedAndRotatedMinimum.csproj" Id="7a45c8f9-cc25-451f-90ab-77675d557aca" />
   <Project Path="StockBuySellMaxOneTransactions/StockBuySellMaxOneTransactions.csproj" Id="d9d4f90b-478a-4a98-b22e-c4d63a2b6b82" />
   <Project Path="StockBuySellMultipleTransactions/StockBuySellMultipleTransactions.csproj" Id="8ec8d4cb-0a29-41dc-8174-a25b5c59e9a6" />
   <Project Path="StringToIntegerMyATIO/StringToIntegerMyATIO.csproj" Id="ed05ef83-db1e-4209-ba22-77eaee41bc9c" />
