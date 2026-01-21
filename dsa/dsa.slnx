@@ -8,6 +8,7 @@
   <Project Path="GenerateParentheses/GenerateParentheses.csproj" Id="d9d4e70d-4251-4335-816c-d5ac47831067" />
   <Project Path="IntegerToRoman/IntegerToRoman.csproj" Id="680d1912-1a70-44f5-9984-1bbcf9cbbec2" />
   <Project Path="LengthOfLongestSubstring/LengthOfLongestSubstring.csproj" Id="990fff40-c624-42ba-8705-a20d2756a563" />
+  <Project Path="LengthOfTheLastString/LengthOfTheLastString.csproj" Id="e7a489e8-deb5-4cda-9acf-29bb1237edde" />
   <Project Path="LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.csproj" Id="a5db01c9-1db5-424f-9b07-d11bc1fd2050" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
   <Project Path="LongestPalindromicSubstring/LongestPalindromicSubstring.csproj" Id="df4b4825-4e04-46ec-9f96-ac2a69947e34" />
@@ -20,6 +21,7 @@
   <Project Path="NextPermutation/NextPermutation.csproj" Id="996dd331-5ac5-40b0-9fbe-9eaa0f53af9a" />
   <Project Path="NonRepeatingCharacter/NonRepeatingCharacter.csproj" Id="7e7d0f7e-0e4a-445a-accc-019929a5d872" />
   <Project Path="NumberOfOccurrence/NumberOfOccurrence.csproj" Id="8e6ffc5c-3643-4e61-82fa-ca74e732d828" />
+  <Project Path="PlusOne/PlusOne.csproj" Id="a754f9ec-707b-46e9-8ff1-fc52a24486df" />
   <Project Path="RegularExpressionMatching/RegularExpressionMatching.csproj" Id="0cf56ca6-a771-4752-ad6a-d5448f9228c8" />
   <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" Id="feb78ba8-5f53-4c08-ac02-3054fae4db36" />
   <Project Path="RemoveElementArray/RemoveElementArray.csproj" Id="a29c1a45-256f-4011-88dc-891a00ae6a0d" />
