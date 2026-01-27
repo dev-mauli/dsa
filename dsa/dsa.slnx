@@ -13,6 +13,7 @@
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
   <Project Path="LongestPalindromicSubstring/LongestPalindromicSubstring.csproj" Id="df4b4825-4e04-46ec-9f96-ac2a69947e34" />
   <Project Path="MajorityElementMoreThanN3/MajorityElementMoreThanN3.csproj" Id="4ba8982d-ef8f-48d5-850c-96b9a13b1bde" />
+  <Project Path="MaxCircularSubarraySum/MaxCircularSubarraySum.csproj" Id="cbe0b6c0-1d8b-4389-91b2-cc7a1cfd178d" />
   <Project Path="MaximumProductSubarray/MaximumProductSubarray.csproj" Id="339233c3-cead-44d8-b031-2c8f6abe7c4e" />
   <Project Path="MaximumSumSubarray/MaximumSumSubarray.csproj" Id="4f361669-0ffe-43e3-8cfc-bf246616619d" />
   <Project Path="MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj" Id="a1fccd42-6410-4a54-985a-66f59361afd7" />
