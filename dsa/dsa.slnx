@@ -5,6 +5,8 @@
   <Project Path="ContainerWithMostWater/ContainerWithMostWater.csproj" Id="9f7fe16e-b297-4017-914e-e54998e2fe80" />
   <Project Path="FindHIndex/FindHIndex.csproj" Id="a87d1b27-6f79-48e8-8e0e-a914de61a567" />
   <Project Path="FindIndexofFirstOccurence/FindIndexofFirstOccurence.csproj" Id="5c4f0ade-60b1-4bcf-ba33-e8e89fb09fdc" />
+  <Project Path="FirstlastPositionOfElementInArray/FirstlastPositionOfElementInArray.csproj" Id="b5ed035d-a8b1-4ecb-9d39-3333ea23b5b1" />
+  <Project Path="FirstMissingPositive/FirstMissingPositive.csproj" Id="2edddb69-8054-4f01-922a-af93a0fe2a3f" />
   <Project Path="GenerateParentheses/GenerateParentheses.csproj" Id="d9d4e70d-4251-4335-816c-d5ac47831067" />
   <Project Path="IntegerToRoman/IntegerToRoman.csproj" Id="680d1912-1a70-44f5-9984-1bbcf9cbbec2" />
   <Project Path="LengthOfLongestSubstring/LengthOfLongestSubstring.csproj" Id="990fff40-c624-42ba-8705-a20d2756a563" />
