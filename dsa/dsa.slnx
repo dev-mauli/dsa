@@ -23,8 +23,10 @@
   <Project Path="MinimizeTheHeights/MinimizeTheHeights.csproj" Id="9161631e-0ab8-48e1-be20-e694666bb3fe" />
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
   <Project Path="NextPermutation/NextPermutation.csproj" Id="996dd331-5ac5-40b0-9fbe-9eaa0f53af9a" />
+  <Project Path="NonOverlappingIntervals/NonOverlappingIntervals.csproj" Id="bea7ffc4-3be2-486a-895f-e05b6316c3eb" />
   <Project Path="NonRepeatingCharacter/NonRepeatingCharacter.csproj" Id="7e7d0f7e-0e4a-445a-accc-019929a5d872" />
   <Project Path="NumberOfOccurrence/NumberOfOccurrence.csproj" Id="8e6ffc5c-3643-4e61-82fa-ca74e732d828" />
+  <Project Path="PeakElement/PeakElement.csproj" Id="10bebf11-60fd-485a-b3d3-3dc7e0a236ee" />
   <Project Path="PlusOne/PlusOne.csproj" Id="a754f9ec-707b-46e9-8ff1-fc52a24486df" />
   <Project Path="RegularExpressionMatching/RegularExpressionMatching.csproj" Id="0cf56ca6-a771-4752-ad6a-d5448f9228c8" />
   <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" Id="feb78ba8-5f53-4c08-ac02-3054fae4db36" />
