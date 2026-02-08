@@ -4,6 +4,7 @@
   <Project Path="ConcatenationOfArray/ConcatenationOfArray.csproj" Id="fd09b5ea-dc73-4da6-86bf-74b6d72d535d" />
   <Project Path="ContainerWithMostWater/ContainerWithMostWater.csproj" Id="9f7fe16e-b297-4017-914e-e54998e2fe80" />
   <Project Path="CountInversions/CountInversions.csproj" Id="7c832033-95a5-4ae0-bae6-7ad025534ea5" />
+  <Project Path="EquilibriumPoint/EquilibriumPoint.csproj" Id="9e02db9d-4f36-4605-97a9-fad0444a117e" />
   <Project Path="FindHIndex/FindHIndex.csproj" Id="a87d1b27-6f79-48e8-8e0e-a914de61a567" />
   <Project Path="FindIndexofFirstOccurence/FindIndexofFirstOccurence.csproj" Id="5c4f0ade-60b1-4bcf-ba33-e8e89fb09fdc" />
   <Project Path="FirstlastPositionOfElementInArray/FirstlastPositionOfElementInArray.csproj" Id="b5ed035d-a8b1-4ecb-9d39-3333ea23b5b1" />
@@ -16,12 +17,14 @@
   <Project Path="LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.csproj" Id="a5db01c9-1db5-424f-9b07-d11bc1fd2050" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" Id="272eff1f-e703-46a8-87c2-7ab3d8d6840c" />
   <Project Path="LongestPalindromicSubstring/LongestPalindromicSubstring.csproj" Id="df4b4825-4e04-46ec-9f96-ac2a69947e34" />
+  <Project Path="LongestSubarrayWithSumK/LongestSubarrayWithSumK.csproj" Id="bcfdd7c3-9296-40fc-8b17-b535c604a3b1" />
   <Project Path="LongestValidParentheses/LongestValidParentheses.csproj" Id="cda9852f-24f3-4333-9c06-a4e34384f42c" />
   <Project Path="MajorityElementMoreThanN3/MajorityElementMoreThanN3.csproj" Id="4ba8982d-ef8f-48d5-850c-96b9a13b1bde" />
   <Project Path="MaxCircularSubarraySum/MaxCircularSubarraySum.csproj" Id="cbe0b6c0-1d8b-4389-91b2-cc7a1cfd178d" />
   <Project Path="MaximumProductSubarray/MaximumProductSubarray.csproj" Id="339233c3-cead-44d8-b031-2c8f6abe7c4e" />
   <Project Path="MaximumSumSubarray/MaximumSumSubarray.csproj" Id="4f361669-0ffe-43e3-8cfc-bf246616619d" />
   <Project Path="MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj" Id="a1fccd42-6410-4a54-985a-66f59361afd7" />
+  <Project Path="MergeTwoSortedList/MergeTwoSortedList.csproj" Id="71736f75-f925-4610-83a5-d1404b7bb6e6" />
   <Project Path="MinimizeTheHeights/MinimizeTheHeights.csproj" Id="9161631e-0ab8-48e1-be20-e694666bb3fe" />
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
   <Project Path="NextPermutation/NextPermutation.csproj" Id="996dd331-5ac5-40b0-9fbe-9eaa0f53af9a" />
