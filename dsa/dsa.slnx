@@ -24,6 +24,7 @@
   <Project Path="MaximumProductSubarray/MaximumProductSubarray.csproj" Id="339233c3-cead-44d8-b031-2c8f6abe7c4e" />
   <Project Path="MaximumSumSubarray/MaximumSumSubarray.csproj" Id="4f361669-0ffe-43e3-8cfc-bf246616619d" />
   <Project Path="MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj" Id="a1fccd42-6410-4a54-985a-66f59361afd7" />
+  <Project Path="MergeKSortedList/MergeKSortedList.csproj" Id="b5f47913-a17b-4e56-be64-4d0a698f4440" />
   <Project Path="MergeTwoSortedList/MergeTwoSortedList.csproj" Id="71736f75-f925-4610-83a5-d1404b7bb6e6" />
   <Project Path="MinimizeTheHeights/MinimizeTheHeights.csproj" Id="9161631e-0ab8-48e1-be20-e694666bb3fe" />
   <Project Path="MoveZerosToEnd/MoveZerosToEnd.csproj" Id="162d25be-ff66-449d-a0cb-f2e0473987ef" />
@@ -34,6 +35,7 @@
   <Project Path="OverlappingIntervals/OverlappingIntervals.csproj" Id="362b210b-a030-4b59-8508-e8b3bb1ef232" />
   <Project Path="PeakElement/PeakElement.csproj" Id="10bebf11-60fd-485a-b3d3-3dc7e0a236ee" />
   <Project Path="PlusOne/PlusOne.csproj" Id="a754f9ec-707b-46e9-8ff1-fc52a24486df" />
+  <Project Path="ProductArrayPuzzle/ProductArrayPuzzle.csproj" Id="a1ae2a6b-9825-4a2a-97b3-733eb85e16b9" />
   <Project Path="RegularExpressionMatching/RegularExpressionMatching.csproj" Id="0cf56ca6-a771-4752-ad6a-d5448f9228c8" />
   <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" Id="feb78ba8-5f53-4c08-ac02-3054fae4db36" />
   <Project Path="RemoveElementArray/RemoveElementArray.csproj" Id="a29c1a45-256f-4011-88dc-891a00ae6a0d" />
