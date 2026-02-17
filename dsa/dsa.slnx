@@ -41,6 +41,7 @@
   <Project Path="RemoveElementArray/RemoveElementArray.csproj" Id="a29c1a45-256f-4011-88dc-891a00ae6a0d" />
   <Project Path="ReverseArray/ReverseArray.csproj" Id="d3bc4214-7b8a-4bb7-b85e-35177290392a" />
   <Project Path="RomanToInteger/RomanToInteger.csproj" Id="36c4f1ca-48cb-4703-89aa-f516d747348b" />
+  <Project Path="RotateALinkedList/RotateALinkedList.csproj" Id="4ef32fd5-bdf1-4c88-84e5-d56559ca2be8" />
   <Project Path="RotateArr/RotateArr.csproj" Id="4d174f81-cf5b-46a9-88a7-282a902739a4" />
   <Project Path="SearchinRotatedSortedArray/SearchinRotatedSortedArray.csproj" Id="0cd5468a-a235-41d1-a7c4-9112384f478f" />
   <Project Path="SearchInsertPosition/SearchInsertPosition.csproj" Id="0a7184ee-d90f-4d9b-9341-a8e6a16f1475" />
