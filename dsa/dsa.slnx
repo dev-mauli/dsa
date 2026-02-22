@@ -34,6 +34,7 @@
   <Project Path="NonRepeatingCharacter/NonRepeatingCharacter.csproj" Id="7e7d0f7e-0e4a-445a-accc-019929a5d872" />
   <Project Path="NumberOfOccurrence/NumberOfOccurrence.csproj" Id="8e6ffc5c-3643-4e61-82fa-ca74e732d828" />
   <Project Path="OverlappingIntervals/OverlappingIntervals.csproj" Id="362b210b-a030-4b59-8508-e8b3bb1ef232" />
+  <Project Path="PairWithGivenSumArray/PairWithGivenSumArray.csproj" Id="6f5452cb-973f-4ac0-bb8c-6f46e9fe2b9e" />
   <Project Path="PeakElement/PeakElement.csproj" Id="10bebf11-60fd-485a-b3d3-3dc7e0a236ee" />
   <Project Path="PlusOne/PlusOne.csproj" Id="a754f9ec-707b-46e9-8ff1-fc52a24486df" />
   <Project Path="ProductArrayPuzzle/ProductArrayPuzzle.csproj" Id="a1ae2a6b-9825-4a2a-97b3-733eb85e16b9" />
